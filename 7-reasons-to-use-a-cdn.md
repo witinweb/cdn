@@ -1,6 +1,9 @@
 **7 Reasons to use a Content Delivery Network**
 **CDN을 사용해야하는 7가지 이유**
 
+글쓴이 : [Craig Buckler](http://www.sitepoint.com/author/craig-buckler/)
+번역 : [공잠](http://gongjam.co.kr/)
+
 Content Delivery Networks (CDNs) have revolutionized web hosting during the past few years. Rather than hosting your website a single server, you can
 distribute the files and load across multiple systems. CDN(Content Delivery Networks)는 지난 몇 년 동안 웹 호스팅에 큰 변화를 일으켰습니다. 하나의 서버에서 여러분의 웹사이트를 호스팅하는 대신 파일들을 분산시키고 여러 시스템에 걸쳐 로드합니다.
 
@@ -50,19 +53,19 @@ availability, lower network latency and lower packet loss. 여러분이 아무�
 If your main web server is based in Dallas, users from Europe or Asia must make a number of trans-continental electronic hops when they access your files.
 Many CDNs provide localized data centers which are closer to the user and result in faster downloads. 만약 여러분의 메인 웹 서버가 Dallas에 있다면 유럽과 아시아 사용자들이 파일에 접근할때 대륙을 횡단해야 합니다. 많은 CDN들은 사용자에게 더 가까운 지역 데이터 센터를 제공해서 더 빠르게 다운로드 됩니다.
 
-5. Built-in version control**
+5. Built-in version control 내장된 버전관리
 
-It’s usually possible to link to a specific version of a CSS file or JavaScript library. You can often request the “latest” version if required.
+It’s usually possible to link to a specific version of a CSS file or JavaScript library. You can often request the “latest” version if required. 보통 CSS파일이나 자바스트립트 라이브러리의 특정 버전에 연결 가능합니다. 종종 “마지막 버전”을 요청할 수도 있습니다.
 
-6. Usage analytics**
+6. Usage analytics 사용 분석
 
 Many commercial CDNs provide file usage reports since they generally charge per byte. Those reports can supplement your own website analytics and, in some
-cases, may offer a better impression of video views and downloads.
+cases, may offer a better impression of video views and downloads. 많은 상업 CDN들은 일반적으로 바이트 단위로 요금을 부과하기 때문에 파일의 사용 보고서를 제공합니다. 이 보고서는 여러분의 웹사이트 분석에 사용될 수 있고 어떤 때에는 동용상 조회사나 다운로드 수보다 더 나은 의견을 줄 수 있습니다.
 
-7. Boosts performance and saves money**
+7. Boosts performance and saves money 성능향상과 비용 절감
 
-A CDN can distribute the load, save bandwidth, boost performance and reduce your existing hosting costs — often for free.
+A CDN can distribute the load, save bandwidth, boost performance and reduce your existing hosting costs — often for free. CDN은 부하를 분산시키고 대역폭을 절약하고 성능을 향상시키며 호스팅 비용(때로는 무료)을 절감할 수 있습니다.
 
-    _What’s not to like?_
+_What’s not to like?_ _좋아하지 않을 이유가 무엇일까요?_
 
-    As you’d expect, that’s not the whole story. Come back soon for _7 Reasons NOT to use a Content Delivery Network_…
+As you’d expect, that’s not the whole story. Come back soon for _7 Reasons NOT to use a Content Delivery Network_… 여러분이 기대하는 것처럼 이것이 전부가 아니다. 곧 [CDN을 사용하지 않는 7가지 이유](http://www.sitepoint.com/7-reasons-not-to-use-a-cdn/) 로 돌아오겠다.
