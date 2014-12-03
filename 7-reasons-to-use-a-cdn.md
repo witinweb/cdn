@@ -68,4 +68,4 @@ A CDN can distribute the load, save bandwidth, boost performance and reduce your
 
 _What’s not to like?_ _좋아하지 않을 이유가 무엇일까요?_
 
-As you’d expect, that’s not the whole story. Come back soon for _7 Reasons NOT to use a Content Delivery Network_… 여러분이 기대하는 것처럼 이것이 전부가 아닙니다. 곧 [CDN을 사용하지 않는 7가지 이유](http://www.sitepoint.com/7-reasons-not-to-use-a-cdn/) 로 돌아오겠다.
+As you’d expect, that’s not the whole story. Come back soon for _7 Reasons NOT to use a Content Delivery Network_… 여러분이 기대하는 것처럼 이것이 전부가 아닙니다. 곧 [CDN을 사용하지 않는 7가지 이유](http://www.sitepoint.com/7-reasons-not-to-use-a-cdn/) 로 돌아오겠습니다...
