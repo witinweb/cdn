@@ -1,33 +1,28 @@
-    **7 Reasons to use a Content Delivery Network**
+**7 Reasons to use a Content Delivery Network**
+**CDN을 사용해야하는 7가지 이유**
 
-    Content Delivery Networks (CDNs) have revolutionized web hosting during the past few years. Rather than hosting your website a single server, you can
-    distribute the files and load across multiple systems.
+Content Delivery Networks (CDNs) have revolutionized web hosting during the past few years. Rather than hosting your website a single server, you can
+distribute the files and load across multiple systems. CDN(Content Delivery Networks)는 지난 몇 년 동안 웹 호스팅에 큰 변화를 일으켰습니다. 하나의 서버에서 여러분의 웹사이트를 호스팅하는 대신 파일들을 분산시키고 여러 시스템에 걸쳐 로드합니다.
 
-    What Files can be Hosted on a CDN?
+What Files can be Hosted on a CDN? 어떤 파일을 CDN에 호스팅할 수 있을까요?
 
-    Most CDNs are used to host static resources such as images, videos, audio clips, CSS files and JavaScript. You’ll find common JavaScript libraries, HTML5
-    shims, CSS resets, fonts and other assets available on a variety of public and private CDN systems.
+Most CDNs are used to host static resources such as images, videos, audio clips, CSS files and JavaScript. You’ll find common JavaScript libraries, HTML5 shims, CSS resets, fonts and other assets available on a variety of public and private CDN systems. 대부분의 CDN들은 이미지, 비디오, 오디오 클립, CSS파일과 자바스크립트 파일과 같은 정적인 자원들을 호스팅합니다. 여러분은 공동 자바스크립트 라이브러리들, HTML5 shims들, CSS 초기화 파일들, 폰트 파일들 등 CDN 시스템에 사용할 수 있는 자원들을 찾을 수 있을 것입니다.
 
-    CDN Services
+##CDN Services CDN 서비스
 
-There are a number of free CDNs offered by Google, Microsoft, Yahoo and other large web organizations. For example, few people host their own videos when    [YouTube](http://www.youtube.com/) and [Vimeo](http://vimeo.com/) offer amazing free services. Similarly, if you require jQuery, you
-    can load it on any page using:
+There are a number of free CDNs offered by Google, Microsoft, Yahoo and other large web organizations. For example, few people host their own videos when    [YouTube](http://www.youtube.com/) and [Vimeo](http://vimeo.com/) offer amazing free services. Similarly, if you require jQuery, you can load it on any page using: 구글, 마이크로소프트, 야후 등 큰 웹 서비스에 의해 제공되는 무료 CDN 들이 많습니다. 예컨대 어떤 이들은 자신의 비디오들을 [유뷰브](http://www.youtube.com/)과 [Vimeo](http://vimeo.com/)에 호스팅합니다. 마찬가지로 제이쿼리를 사용할 때 다음과 같이 페이지에 로드할 수 있습니다:
 
-<div>
-
-        &lt;script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js.js"&gt;&lt;/script&gt;
-
-</div>
-
+```javascript
+    <div>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js.js"></script>
+    </div>
     or
+    <div>
+    <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.6.4.min.js"></script>
+    </div>
+```
 
-<div>
-
-        &lt;script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.6.4.min.js"&gt;&lt;/script&gt;
-
-</div>
-
-Alternatively, you could use a private commercial CDNs such as [Amazon S3](http://aws.amazon.com/s3/),    [Microsoft Windows Azure](http://www.microsoft.com/windowsazure/) and[MaxCDN](http://maxcdn.com/) to host your own files.
+Alternatively, you could use a private commercial CDNs such as [Amazon S3](http://aws.amazon.com/s3/),    [Microsoft Windows Azure](http://www.microsoft.com/windowsazure/) and[MaxCDN](http://maxcdn.com/) to host your own files. 다른 방법으로는 [Amazon S3](http://aws.amazon.com/s3/), [Microsoft Windows Azure](http://www.microsoft.com/windowsazure/) 와 [MaxCDN](http://maxcdn.com/)처럼 상업적인 CDN 서비스들을 사용할 수도 있습니다.
 
     The Benefits of Using a CDN
 
